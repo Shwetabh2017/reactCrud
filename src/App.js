@@ -5,8 +5,7 @@ import CustomButtons from './CustomButtons';
 function App() {
   return (
     <div className="App">
-      <CustomButtons />
-     
+      <CustomButtons />     
     </div>
   );
 }
